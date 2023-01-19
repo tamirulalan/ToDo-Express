@@ -1,4 +1,4 @@
 # Express Todo App
 
-This app works best with [react-todo28](https://github.com/tishana/reactTodo28) 
+This app works best with [ToDo-React](https://github.com/tamirulalan/ToDo-React) 
 
